@@ -1,5 +1,7 @@
 package edu.msudenver.cs3013.colorfragments
 
+// Brandon Hornick
+
 import android.content.Context
 import android.os.Bundle
 import android.view.LayoutInflater
